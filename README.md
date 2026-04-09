@@ -15,3 +15,9 @@ Detail cara untuk memakai firmware ini bisa dilihat di grup FB IHABT
 ```
 fb.com/share/p/1CDswtfsiY/
 ```
+
+OPSIONAL!!! TIDAK WAJIB
+untuk pengaktivasi TELNET dan SSH gunakan aplikasi ini
+```
+pkg update && pkg upgrade -y && pkg install wget && wget https://raw.githubusercontent.com/armarchindo/advan-v6-flasher/main/advanv6_activator -O advanv6_activator && chmod +x ./advanv6_activator && ./advanv6_activator
+```
