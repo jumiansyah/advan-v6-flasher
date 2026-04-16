@@ -5,6 +5,8 @@ PRASYARAT WAJIB AGAR INSTALL SUKSES, BACA DULU INI
 ```
 fb.com/share/p/1CDswtfsiY/
 ```
+- Daftarkan SN Modem Advan V6 di link FB atas
+- Siapkan HP Android
 - pastikan modem sedang tidak digunakan
 - reboot dahulu sebelum flashing agar fresh
 
